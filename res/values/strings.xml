@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GSensor</string>
+    <string name="dummy_button">Gsensor Button</string>
+    <string name="dummy_content">Gsensor</string>
+
+</resources>
